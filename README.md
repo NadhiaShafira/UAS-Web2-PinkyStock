@@ -62,7 +62,7 @@ Bukti penerapan CodeIgniter Filters untuk memproteksi endpoint manipulasi data. 
 - **Proses Berhasil Input Barang Baru via Axios POST:**
   ![5_Proses_Berhasil_Input](https://github.com/NadhiaShafira/UAS-Web2-PinkyStock/blob/81469a6a04b36d500c568ae435f5b9fe6dfbc83e/SS_UAS_WEB2/5_Proses%20Berhasil%20Input.png)
 - **Visualisasi Banyak Data Pada Tabel Berbasis TailwindCSS (Read):**
-  ![6_Data_Masuk_Tabel_Dashboard](6_Data_Masuk_Tabel_Dashboard.png)
+  ![6_Data_Masuk_Tabel_Dashboard](https://github.com/NadhiaShafira/UAS-Web2-PinkyStock/blob/d4bdd274de6eabe9b7f7a25abf777684f9199cb7/SS_UAS_WEB2/6_Data%20Masuk%20Tabel%20Dashboard.png)
 - **Fitur Update/Edit Data Barang via Axios PUT:**
   ![7_Fitur_Update](7_Fitur_Update.png)
 - **Tampilan Tabel Penuh Setelah Update Berhasil:**
