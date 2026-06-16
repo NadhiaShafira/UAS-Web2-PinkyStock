@@ -68,7 +68,7 @@ Bukti penerapan CodeIgniter Filters untuk memproteksi endpoint manipulasi data. 
 - **Tampilan Tabel Penuh Setelah Update Berhasil:**
   ![8_Tampilan_Tabel_Setelah_Update](https://github.com/NadhiaShafira/UAS-Web2-PinkyStock/blob/9ddad20ad681442cecad78e5e03aa23abda7dd28/SS_UAS_WEB2/8_Tampilan_Tabel_Setelah_Update.png)
 - **Fitur Delete/Hapus Data Barang via Axios DELETE:**
-  ![9_Fitur_Delete](9_Fitur_Delete.png)
+  ![9_Fitur_Delete](https://github.com/NadhiaShafira/UAS-Web2-PinkyStock/blob/24acb179a518a572da9bf75a8d811377176e4c4e/SS_UAS_WEB2/9_Fitur_Delete.png)
 
 ---
 
