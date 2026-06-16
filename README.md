@@ -60,7 +60,7 @@ Bukti penerapan CodeIgniter Filters untuk memproteksi endpoint manipulasi data. 
 
 ### 🛍️ 4. Manajemen Data Master (Operasi CRUD)
 - **Proses Berhasil Input Barang Baru via Axios POST:**
-  ![5_Proses_Berhasil_Input](5_Proses_Berhasil_Input.png)
+  ![5_Proses_Berhasil_Input](https://github.com/NadhiaShafira/UAS-Web2-PinkyStock/blob/81469a6a04b36d500c568ae435f5b9fe6dfbc83e/SS_UAS_WEB2/5_Proses%20Berhasil%20Input.png)
 - **Visualisasi Banyak Data Pada Tabel Berbasis TailwindCSS (Read):**
   ![6_Data_Masuk_Tabel_Dashboard](6_Data_Masuk_Tabel_Dashboard.png)
 - **Fitur Update/Edit Data Barang via Axios PUT:**
