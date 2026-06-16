@@ -50,7 +50,7 @@ Bukti pembuatan minimal 3 tabel database yang saling berelasi (`users`, `kategor
 
 ### 🔒 2. Server-Side Security (Uji Coba API Gagal Error 401)
 Bukti penerapan CodeIgniter Filters untuk memproteksi endpoint manipulasi data. Request ditolak dengan kode `401 Unauthorized` karena tidak melampirkan *Authorization Bearer Token* pada HTTP Header:
-![2_uji_api_gagal_401](2_uji_api_gagal_401.png)
+![2_uji_api_gagal_401](https://github.com/NadhiaShafira/UAS-Web2-PinkyStock/blob/2976e9adf846501b83c5920037e6a3061eb5a49f/SS_UAS_WEB2/2_uji_api_gagal_401.png)
 
 ### 🔑 3. Modul Otentikasi & Sesi Login
 - **Notifikasi Login Berhasil & Token Tersimpan di LocalStorage:**
