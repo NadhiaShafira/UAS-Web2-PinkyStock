@@ -81,4 +81,19 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi **PinkyStock~** di
 2. Import file database `db_inventory.sql` ke dalam `http://localhost/phpmyadmin`.
 3. Buka terminal atau command prompt baru, masuk ke dalam folder backend:
 ```bash
-   cd backend-api
+  cd backend-api
+```
+4. Jalankan server lokal CodeIgniter 4 menggunakan perintah andalan:
+`C:\xampp\php\php.exe spark serve`
+5.Server backend Anda akan aktif melayani API di alamat:`http://localhost:8080`
+
+### 💻 B. Konfigurasi Klien Frontend (VueJS SPA)
+1. Buka folder `frontend-spa` menggunakan jendela VS Code terpisah.
+2. Klik tombol `Go Live` pada ekstensi Live Server di pojok kanan bawah VS Code Anda.
+3. Aplikasi SPA siap diakses melalui Google Chrome di alamat:
+`[http://127.0.0.1:5500/frontend-spa/index.html](http://127.0.0.1:5500/frontend-spa/index.html)`
+
+## 🎥 Tautan Presentasi & Video Demo Proyek
+Link Video Presentasi di YouTube: 🎥 [Silakan Masukkan Link YouTube Kamu di Sini ya Nadhia!]
+
+Link Demo Aplikasi (Jika Ada): 🌐 [Masukkan Link Hosting Jika Ada, Jika Tidak Hapus Baris Ini]
