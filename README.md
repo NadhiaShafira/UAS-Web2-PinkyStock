@@ -56,7 +56,7 @@ Bukti penerapan CodeIgniter Filters untuk memproteksi endpoint manipulasi data. 
 - **Notifikasi Login Berhasil & Token Tersimpan di LocalStorage:**
   ![3_Notifikasi_Login_Berhasil](https://github.com/NadhiaShafira/UAS-Web2-PinkyStock/blob/5c66209ebf7514b25304922f7c3f4aaa889fc4c2/SS_UAS_WEB2/3_Notifikasi_Login_Berhasil.png)
 - **Tampilan Awal Dashboard Admin (Akses Terproteksi Navigation Guards):**
-  ![4_Tampilan_Awal_Dashboard_Admin](4_Tampilan_Awal_Dashboard_Admin.png)
+  ![4_Tampilan_Awal_Dashboard_Admin](https://github.com/NadhiaShafira/UAS-Web2-PinkyStock/blob/0394f3c30d7fb3da9e84b7a9427d99aa3cb4327e/SS_UAS_WEB2/4_Tampilan_Awal_Dashboard_Admin.png)
 
 ### 🛍️ 4. Manajemen Data Master (Operasi CRUD)
 - **Proses Berhasil Input Barang Baru via Axios POST:**
