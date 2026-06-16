@@ -46,7 +46,7 @@ Berikut adalah data diri pemilik proyek untuk pemenuhan nilai Ujian Akhir Semest
 
 ### 🗄️ 1. Arsitektur Database (Relasi Tabel)
 Bukti pembuatan minimal 3 tabel database yang saling berelasi (`users`, `kategori`, dan `barang`) pada phpMyAdmin:
-![1_skema_database](1_skema_database.png)
+![1_skema_database](https://github.com/NadhiaShafira/UAS-Web2-PinkyStock/blob/de701ac86334863fe554a01018abf706642686c4/SS_UAS_WEB2/1_skema_database.png)
 
 ### 🔒 2. Server-Side Security (Uji Coba API Gagal Error 401)
 Bukti penerapan CodeIgniter Filters untuk memproteksi endpoint manipulasi data. Request ditolak dengan kode `401 Unauthorized` karena tidak melampirkan *Authorization Bearer Token* pada HTTP Header:
