@@ -94,6 +94,5 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi **PinkyStock~** di
 `[http://127.0.0.1:5500/frontend-spa/index.html](http://127.0.0.1:5500/frontend-spa/index.html)`
 
 ## 🎥 Tautan Presentasi & Video Demo Proyek
-Link Video Presentasi di YouTube: 🎥 [Silakan Masukkan Link YouTube Kamu di Sini ya Nadhia!]
+Link Video Presentasi di YouTube: 🎥 [https://youtu.be/u8ILsHb-7Ck] 
 
-Link Demo Aplikasi (Jika Ada): 🌐 [Masukkan Link Hosting Jika Ada, Jika Tidak Hapus Baris Ini]
